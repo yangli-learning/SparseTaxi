@@ -1,7 +1,8 @@
- **_Jan 31, 2017: Some trajectories are missing from the repository. _**
+ **Jan 31, 2017: Some trajectories are missing from the repository. **
 
+Benchmark trajectories for Joint Map Matching for Large Scale GPS Trajectories by Y. Li, M. Kerber, L. Zhang and L. Guibas. In proceeding of ACM Sigspatial 2013 (GIS'13), 2013.
 
-Content
+Directory list
 ==========
 * `manual_matched` : contains dense trajectories (.coor.txt) and their corresponding path on the road network (.txt) 
 * `sparse_trajectories` : contains sparse trajectories (.coor.txt)
