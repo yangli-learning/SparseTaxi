@@ -2,6 +2,8 @@
 
 Benchmark trajectories for Joint Map Matching for Large Scale GPS Trajectories by Y. Li, M. Kerber, L. Zhang and L. Guibas. In proceeding of ACM Sigspatial 2013 (GIS'13), 2013.
 
+Manual map matching is done using [trajectoryTracerDemo](https://github.com/yangli1-stanford/trajectoryTracerDemo)
+
 Directory list
 ==========
 * `manual_matched` : contains dense trajectories (.coor.txt) and their corresponding path on the road network (.txt) 
