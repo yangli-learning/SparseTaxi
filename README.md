@@ -1,6 +1,6 @@
  **Jan 31, 2017: Some trajectories are missing from the repository. **
 
-Benchmark trajectories for Joint Map Matching for Large Scale GPS Trajectories by Y. Li, M. Kerber, L. Zhang and L. Guibas. In proceeding of ACM Sigspatial 2013 (GIS'13), 2013.
+Benchmark trajectories for Joint Map Matching for Large Scale GPS Trajectories by Y. Li, M. Kerber, L. Zhang and L. Guibas. In proceeding of ACM Sigspatial GIS 2013.
 
 Manual map matching is done using [trajectoryTracerDemo](https://github.com/yangli1-stanford/trajectoryTracerDemo)
 
